@@ -1,0 +1,23 @@
+E:\Documents\VisualStudio\VB\Shooter\Shooter\bin\Debug\Shooter.exe.config
+E:\Documents\VisualStudio\VB\Shooter\Shooter\bin\Debug\Shooter.exe
+E:\Documents\VisualStudio\VB\Shooter\Shooter\bin\Debug\Shooter.pdb
+E:\Documents\VisualStudio\VB\Shooter\Shooter\bin\Debug\Shooter.xml
+E:\Documents\VisualStudio\VB\Shooter\Shooter\obj\Debug\Shooter.vbprojResolveAssemblyReference.cache
+E:\Documents\VisualStudio\VB\Shooter\Shooter\obj\Debug\Shooter.Form1.resources
+E:\Documents\VisualStudio\VB\Shooter\Shooter\obj\Debug\Shooter.Resources.resources
+E:\Documents\VisualStudio\VB\Shooter\Shooter\obj\Debug\Shooter.vbproj.GenerateResource.Cache
+E:\Documents\VisualStudio\VB\Shooter\Shooter\obj\Debug\Shooter.exe
+E:\Documents\VisualStudio\VB\Shooter\Shooter\obj\Debug\Shooter.xml
+E:\Documents\VisualStudio\VB\Shooter\Shooter\obj\Debug\Shooter.pdb
+C:\Users\Mindcraft Server 1\Desktop\Shooter\Shooter\bin\Debug\Shooter.exe.config
+C:\Users\Mindcraft Server 1\Desktop\Shooter\Shooter\bin\Debug\Shooter.exe
+C:\Users\Mindcraft Server 1\Desktop\Shooter\Shooter\bin\Debug\Shooter.pdb
+C:\Users\Mindcraft Server 1\Desktop\Shooter\Shooter\bin\Debug\Shooter.xml
+C:\Users\Mindcraft Server 1\Desktop\Shooter\Shooter\obj\Debug\Shooter.vbprojAssemblyReference.cache
+C:\Users\Mindcraft Server 1\Desktop\Shooter\Shooter\obj\Debug\Shooter.Form1.resources
+C:\Users\Mindcraft Server 1\Desktop\Shooter\Shooter\obj\Debug\Shooter.Resources.resources
+C:\Users\Mindcraft Server 1\Desktop\Shooter\Shooter\obj\Debug\Shooter.vbproj.GenerateResource.cache
+C:\Users\Mindcraft Server 1\Desktop\Shooter\Shooter\obj\Debug\Shooter.vbproj.CoreCompileInputs.cache
+C:\Users\Mindcraft Server 1\Desktop\Shooter\Shooter\obj\Debug\Shooter.exe
+C:\Users\Mindcraft Server 1\Desktop\Shooter\Shooter\obj\Debug\Shooter.xml
+C:\Users\Mindcraft Server 1\Desktop\Shooter\Shooter\obj\Debug\Shooter.pdb
