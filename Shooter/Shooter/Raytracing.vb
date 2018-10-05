@@ -5,7 +5,7 @@
     End Class
 
     Public Function raytraceLine(p1 As Vec2, p2 As Vec2, rayNormal As Vec2, rayOrigin As Vec2) As Ray
-        Dim output As New Ray
+        Dim output As New Ray()
         Dim p3 As Vec2 = rayOrigin
         Dim p4 As Vec2 = rayOrigin + rayNormal
         Dim p As Single = (p1.x - p2.x) * (p3.y - p4.y) - (p1.y - p2.y) * (p3.x - p4.x)
